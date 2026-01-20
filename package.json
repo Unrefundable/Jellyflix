@@ -1,0 +1,24 @@
+{
+  "name": "jellyflix",
+  "version": "1.0.0",
+  "description": "Netflix-style theme for Jellyfin media server",
+  "main": "jellyflix.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Unrefundable/Jellyflix.git"
+  },
+  "keywords": [
+    "jellyfin",
+    "theme",
+    "netflix",
+    "css",
+    "customization",
+    "media-server"
+  ],
+  "author": "Unrefundable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Unrefundable/Jellyflix/issues"
+  },
+  "homepage": "https://github.com/Unrefundable/Jellyflix#readme"
+}
